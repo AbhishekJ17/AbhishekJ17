@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**AbhishekJ17/AbhishekJ17** is a ✨ I'm Passionate and Enthusiast about iOS Developement. ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✨ I'm Passionate and Enthusiast about iOS Developement. ✨**
 
 ### 😁 About Me:
 
