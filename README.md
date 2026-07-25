@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-**✨ I'm Passionate and Enthusiast about iOS Developement. ✨**
+**✨ iOS Engineer | Mobile Architecture | System Design | Modular and Scalable App Development. ✨**
 
 ### 😁 About Me:
 
-- 🔭 I’m currently working on iOS mobile application and Ruby on Rails
-- 🌱 I’m currently learning SwiftUI
-- 📫 LinkedIn: https://www.linkedin.com/in/abhishek-jadhav-85687a122/
-- 📫 StackOverflow: https://stackoverflow.com/users/7866794/abhishek-jadhav?tab=profile
+I design the systems behind the screens—building scalable iOS architectures that users never notice but always benefit from.
+Life goal - Write clean code and solve real-world challenges through technology and algorithms.
+I’m actively seeking opportunities to grow as a engineer, contribute to impactful projects, and collaborate with people who value strong engineering fundamentals.
